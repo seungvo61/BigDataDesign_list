@@ -1,0 +1,8 @@
+- Name: Jang SM
+- Student ID: 22000624
+- Major (1): Life science
+- Major (2): Ai convergence
+- Year of born: 2001
+- RC: Grace
+- Gender: Male
+- Nationality: Korean
