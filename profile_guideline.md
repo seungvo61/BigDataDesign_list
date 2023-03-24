@@ -1,0 +1,8 @@
+- Name: 
+- Student ID: 
+- Major (1): 
+- Major (2): 
+- Year of born: 
+- RC: 
+- Gender: 
+- Nationality: 
