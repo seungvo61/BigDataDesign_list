@@ -1,0 +1,8 @@
+- Name: Eunbi Cho
+- Student ID: 22000724
+- Major (1): Management
+- Major (2): AI Convergence
+- Year of born: 2000
+- RC: Jangkiryo
+- Gender: Female
+- Nationality: Republic of Korea
