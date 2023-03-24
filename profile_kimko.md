@@ -1,0 +1,8 @@
+- Name: Kim KO
+- Student ID: 20231230
+- Major (1): Engineering
+- Major (2): Computer Science
+- Year of born: 2004
+- RC: Son Yang Won
+- Gender: M
+- Nationality: Korea 
