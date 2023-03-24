@@ -1,0 +1,8 @@
+- Name: Jong hyun Choi
+- Student ID: 21700741
+- Major (1): Biology
+- Major (2): Data Science
+- Year of born: 1998
+- RC: 손양원
+- Gender: male
+- Nationality: Korea 
