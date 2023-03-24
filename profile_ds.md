@@ -1,0 +1,8 @@
+- Name: ads
+- Student ID: 21700411
+- Major (1): manage
+- Major (2): 
+- Year of born: 
+- RC: 
+- Gender: 
+- Nationality:
