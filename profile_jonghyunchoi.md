@@ -6,3 +6,4 @@
 - RC: 손양원
 - Gender: male
 - Nationality: Korea 
+- Introduce myself: Hi! Professor! Nice to meet you!~
