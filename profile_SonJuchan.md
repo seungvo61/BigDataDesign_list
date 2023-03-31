@@ -1,0 +1,8 @@
+- Name: Son Juchan
+- Student ID: 21700365
+- Major (1): Social Welfare
+- Major (2): Data Science
+- Year of born: 1998
+- RC:Yeolsong (Lothem)
+- Gender: Male
+- Nationality: Korea
